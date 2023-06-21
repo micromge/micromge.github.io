@@ -1,1 +1,1 @@
-# micromge.github.io
+# Welcome to the GitHUB homepage of MicroMGE
